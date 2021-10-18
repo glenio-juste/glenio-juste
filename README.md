@@ -64,11 +64,11 @@
   <a href="mailto:glenio.juste@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
 </div>
 
-<div align="center"> 
-
+<!--
+<div align="center">
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/glenio-juste/count.svg" />
  </p>
-
 </div>
+-->
