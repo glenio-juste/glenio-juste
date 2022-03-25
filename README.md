@@ -1,18 +1,10 @@
 ### Olá, eu sou o Glenio! 👋
 
-<div>  <!-- align="center" -->
+<div>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glenio-juste&hide=contribs&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" />    
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glenio-juste&layout=compact&amp;langs_count=7&amp;theme=dark" /> 
 </div>
 
-<!--
-<div>
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glenio-juste&theme=blue-green" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenio-juste&theme=blue-green" />    
-  </a>
-</div>
--->
 
 <div style="display: inline_block" ><br>
   
