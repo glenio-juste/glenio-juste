@@ -1,4 +1,4 @@
-### Olá, eu sou o Glenio! 👋
+### GLENIO 👋
 
 <div>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glenio-juste&hide=contribs&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" />    
@@ -32,7 +32,9 @@
 
 <div>
   <a href="https://www.linkedin.com/in/glenio-juste/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<!--    
   <a href="mailto:glenio.juste@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+-->
 </div>
 
 
