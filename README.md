@@ -5,9 +5,9 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glenio-juste&hide=contribs&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" />     
 </div>
 
+####My Stack 
 
 <div style="display: inline_block" ><br>
-##My Stack 
   <img align="center" alt="Glenio-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Glenio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
   <img align="center" alt="Glenio-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
