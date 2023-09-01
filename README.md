@@ -2,8 +2,6 @@
 
 ![java](https://github.com/glenio-juste/glenio-juste/assets/47223292/80a00214-d0e7-4920-b8f6-f01c71b07c5f)
 
-####My Stack 
-
 <div style="display: inline_block" ><br>
   <img align="center" alt="Glenio-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Glenio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
