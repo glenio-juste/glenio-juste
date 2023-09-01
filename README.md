@@ -1,9 +1,6 @@
 ### Hi, I'm Glenio 👋
 
-
-<div>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glenio-juste&hide=contribs&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" />     
-</div>
+![java](https://github.com/glenio-juste/glenio-juste/assets/47223292/80a00214-d0e7-4920-b8f6-f01c71b07c5f)
 
 ####My Stack 
 
@@ -23,7 +20,6 @@
 </div>
 
 ##
-
 
 <div>
   <a href="https://www.linkedin.com/in/glenio-juste/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
